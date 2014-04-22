@@ -5,4 +5,3 @@ class ClassName
 {
     public $foo = null;
 }
-
