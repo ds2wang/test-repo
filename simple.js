@@ -1,12 +1,13 @@
 /**
  * IPC_Test_Config
  *
- *
- * @category Testing
+ * @category  Testing
  * @package  IPC.Test
- * @author   Rajat Pandit <rajat_pandit@lalaland.com>
- * @license  http://www.gnu.org/copyleft/gpl.html GNU General Public License
- * @link     http://ipcmedia.com
+ * @author  Squiz Pty Ltd <products@squiz.net>
+ * @license  asdf
+ * @link   asdf
+ * @subpackage  asdf
+ * @copyright  asdf
  */
 
 function factorial(n)
