@@ -1,5 +1,5 @@
 /**
- * IPC_Test_Config
+ * IPC_Test_Config.
  *
  * @category  Testing
  * @package    IPC.Test
@@ -9,6 +9,7 @@
  * @link   asdf
  * @copyright  1234-5678 Squiz Pty Ltd (ABN 77 084 670 600)
  */
+
 function factorial(n)
 {
     if (n === 0) {
